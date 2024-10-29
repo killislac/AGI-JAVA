@@ -1,6 +1,6 @@
-package com.example.agregadorInvestimentos.repository;
+package com.example.agregadorDeInvestimentos.repository;
 
-import com.example.agregadorInvestimentos.entity.User;
+import com.example.agregadorDeInvestimentos.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

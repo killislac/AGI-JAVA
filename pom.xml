@@ -5,14 +5,14 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>3.3.3</version>
+		<version>3.3.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
-	<artifactId>agregadorInvestimentos</artifactId>
+	<groupId>carval.adi</groupId>
+	<artifactId>agregadorDeInvestimentos</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>agregadorInvestimentos</name>
-	<description>Demo project for Spring Boot</description>
+	<name>agregadorDeInvestimentos</name>
+	<description>Agregador de investimentos</description>
 	<url/>
 	<licenses>
 		<license/>

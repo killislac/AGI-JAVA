@@ -1,13 +1,13 @@
-package com.example.agregadorInvestimentos;
+package com.example.agregadorDeInvestimentos;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AgregadorInvestimentosApplication {
+public class AgregadorDeInvestimentosApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AgregadorInvestimentosApplication.class, args);
+		SpringApplication.run(AgregadorDeInvestimentosApplication.class, args);
 	}
 
 }
